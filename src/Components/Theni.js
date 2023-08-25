@@ -16,13 +16,13 @@ const Theni = () => {
         </Col>
         <Col className='py-3'>
         <h6>"A little hamlet in Tamil Nadu"</h6>
-        <p className='py-2' style={{textIndent:'4rem'}}>
+        <p className='py-2' style={{textIndent:'4rem', textAlign:'justify'}}>
         Theni Tourism Dotted by luscious patches of greenery and beautiful
 waterfalls, Theni is a little hamlet on the Western Ghats. The topography of
 Theni mainly consists of hills and ranges. It has plenty of rivers and dams and
 is an abode to 27 forests hence filled with unparalleled greenery.
         </p>
-        <p className='text-indent' style={{textIndent:'4rem'}}>
+        <p className='text-indent' style={{textIndent:'4rem', textAlign:'justify'}}>
         There temples like Kamatchi Amman Temple, Vellappar Temple, and
 Balasubramanya Temple which are brimming with devotees from all around
 the country throughout the year. The vibrant local markets of Theni are

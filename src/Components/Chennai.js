@@ -16,10 +16,10 @@ const Chennai = () => {
             </Col>
             <Col className='py-3'>
             <h6>"The Detroit Of India"</h6>
-            <p className='py-2' style={{textIndent:'4rem'}}>
+            <p className='py-2' style={{textIndent:'4rem', textAlign:'justify'}}>
                 Formerly known as Madras, Chennai is the capital city of the state of Tamil Nadu, in the southern part of India. Located on the Coramendel coast of Bay of Bengal, Chennai is as dynamic as it is immersed in tradition. This 'capital of south', is one among the four metropolitan siblings of india, having a rich cultural history which it perfectly balances with its metropolis lifestyle.
             </p>
-            <p className='text-indent' style={{textIndent:'4rem'}}>
+            <p className='text-indent' style={{textIndent:'4rem', textAlign:'justify'}}>
                 Amid its chaos of traffic and swelter9ing humid climate, Chennai is worth visiting for its temples steeped in south-Indian culture, British-era musems and monuments, culinary delights and Marina Beach (Second largest urban beach in the world). Chennai's skyline is famous for its towering skyscrapers, but the heart of Chennai has an old-world charm to it that refuses to be overshadowed.
             </p>
             </Col>

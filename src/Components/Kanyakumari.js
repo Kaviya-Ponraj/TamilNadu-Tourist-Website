@@ -15,10 +15,10 @@ const Kanyakumari = () => {
         </Col>
         <Col className='py-3'>
         <h6>"Cape Comorin or The Land's End"</h6>
-        <p className='py-2' style={{textIndent:'4rem'}}>
+        <p className='py-2' style={{textIndent:'4rem', textAlign:'justify'}}>
           Kanyakumari Tourism Boerded by the three seas - Arabian, Indian and the Bay of Bengal, Knayakumari is the southernmost tip of the Indian Peninsula. A small coastal town in the state of Tamil Nadu, Kanyakumari was earlier known as Cape Comorin.
         </p>
-        <p className='text-indent' style={{textIndent:'4rem'}}>
+        <p className='text-indent' style={{textIndent:'4rem', textAlign:'justify'}}>
           Kanyakumari offers the marvellous confluence of the Bay of Bengal, the Arabian Sea and the Indian ocean meeting together at a point. But, this is not a miracle, the miracle lies in the beauty that the water of three seas does not mix, you can clearly distinguish between the turquuoise blue, deep blue and sea green waters of the three seas. To enjoy the best view tower. The town has a mountainous terrain with elevated patches of hills, coconut trees and lined with paddy feilds. 
         </p>
         </Col>

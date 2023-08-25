@@ -15,10 +15,10 @@ const Rameshwaram = () => {
             </Col>
             <Col className='py-3'>
             <h6>"The Bridge on the Indian Ocean"</h6>
-            <p className='py-2' style={{textIndent:'4rem'}}>
+            <p className='py-2' style={{textIndent:'4rem', textAlign:'justify'}}>
                 Rameshwaram is located on a beautiful island in the South Indian statenof Tamil Nadu. It is seperated by a small Pamban channel from Sri Lanka. According to Hindu mythilogy, this is the place where Lord Rama created a bridge across the sea to Sri Lanka.
             </p>
-            <p className='text-indent' style={{textIndent:'4rem'}}>
+            <p className='text-indent' style={{textIndent:'4rem', textAlign:'justify'}}>
                 Renowned for its magnificient prakaras with massive sculptured pillrs on either side. The Ramanathaswamy Temple houses the longest corridor in the world. agniteertham is famous for its sacred waters and pilgrims perform poojas in honour of their ancestors at this seashore. The five-faced Hanuman Temple holds the floating stone which wasc used to build the bridge between India and Sri Lanka. Rameshwaram has the first sea bridge connecting the town of Mandapam with Pamban Island and Rameshwaram.
             </p>
             </Col>

@@ -15,7 +15,7 @@ const Hogenakkal = () => {
         </Col>
         <Col className='py-3'>
         <h6>“The one that will take your breath away"</h6>
-        <p className='py-2' style={{textIndent:'4rem'}}>
+        <p className='py-2' style={{textIndent:'4rem', textAlign:'justify'}}>
         
 Hogenakkal Tourism Hogenakkal is a waterfall located in Dharmapuri
 district of Tamil Nadu where the Kaveri river splits into multiple streams of
@@ -24,7 +24,7 @@ water throughout the year. The carbonite rocks, the coracle (basket boat)
 tides, freshwater fish, oil massages by locals make it a perfect one day trip or
 a weekend getaway from Bangalore.
         </p>
-        <p className='text-indent' style={{textIndent:'4rem'}}>
+        <p className='text-indent' style={{textIndent:'4rem', textAlign:'justify'}}>
         Sometimes referred to as the “Niagara Falls of India," it is also known
 for the medicinal baths. Also known at Marikottayam, Hoge actually means
 smoke and Kal means rock. Recently, the place has been found to be littered

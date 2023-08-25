@@ -15,10 +15,10 @@ const Yercaud = () => {
         </Col>
         <Col className='py-3'>
         <h6>"The Land of Seven Forests"</h6>
-        <p className='py-2' style={{textIndent:'4rem'}}>
+        <p className='py-2' style={{textIndent:'4rem', textAlign:'justify'}}>
             Yercaud Tourism Nestled in the Shivaroy Hills of Tamil Nadu, Yercaud is a hill station in the Eastern Ghats steeped in abundant greenery. Commonly called  'Ooty of the poor', this region has a dating bact to the tmime of British. Located at an altitude of 4970 feet, Yercaud is known for its vast expenses of coffee plntations and great weather.
         </p>
-        <p className='text-indent' style={{textIndent:'4rem'}}>
+        <p className='text-indent' style={{textIndent:'4rem', textAlign:'justify'}}>
             Yeraud lake is the main point of attraction of the region. One of the many highlights is the summer festival that takes place in May. It is dedicated to Lord Servarayan, the supreme god of the ranges and gives visitors a glimpse into the rich heritage of this region.
         </p>
         </Col>

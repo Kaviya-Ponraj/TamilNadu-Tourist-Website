@@ -15,10 +15,10 @@ const Madurai = () => {
         </Col>
         <Col className='py-3'>
         <h6>"The Lotus City"</h6>
-        <p className='py-2' style={{textIndent:'4rem'}}>
+        <p className='py-2' style={{textIndent:'4rem', textAlign:'justify'}}>
         Madurai Tourism Madurai, the cultural capital of TamilNadu, is one of the oldest continuously inhabited cities of India. Ruled by Pandya kings for the longest time in its history, it is called as the 'Lotus City' as it was planned and built in the shape of a lotus. Madurai is known for Meenakshi Amman Temple, dedicated to the goddess Meenakshi with a sanctum for her consort, Sundareshwarar.
         </p>
-        <p className='text-indent' style={{textIndent:'4rem'}}>
+        <p className='text-indent' style={{textIndent:'4rem', textAlign:'justify'}}>
         There are many other ancient temples in Madurai, including Thiruparankundram. It is one of the important old temples dedicated to Lord Muruga Karthikeya and is located on a  hillock approximately 8 km from the city. Having trade ties with ancient Rome, the place holds a great cultural heritage. With butling bazaars and fantastic street food, Madurai has heritage walks conducted throughout the day.
         </p>
         </Col>

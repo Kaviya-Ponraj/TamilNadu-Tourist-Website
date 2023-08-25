@@ -15,10 +15,10 @@ const Kumbakonam = () => {
         </Col>
         <Col className='py-3'>
         <h6>"The Cambridge of India"</h6>
-        <p className='py-2' style={{textIndent:'4rem'}}>
+        <p className='py-2' style={{textIndent:'4rem', textAlign:'justify'}}>
          Kumbakonam Tourism Sandwiched between two great rivers of southern India. Cauvery and Arsala, Kumbakonam is a gorgeous temple town in the heart of Thanjore district in TamilNadu. The town is a place for rivers of history and those seeking to understnd India's cultural roots and Hinduism.
         </p>
-        <p className='text-indent' style={{textIndent:'4rem'}}>
+        <p className='text-indent' style={{textIndent:'4rem', textAlign:'justify'}}>
          The town is also known for its grand festival called Mahamham festival which is celebrated every twelve years at the Mahamaham Tank. The town is one of the oldest in the Indian history and knowm for its famed temples. Chola heritage and also its marvellous educational Institutes. The town is one of the oldest in the Indian history and knowm for its famed temples. Chola heritage and also its marvellous educational Institutes. 
         </p>
         </Col>

@@ -15,10 +15,10 @@ const Ooty = () => {
         </Col>
         <Col className='py-3'>
         <h6>"Queen of the Nilgiris"</h6>
-        <p className='py-2' style={{textIndent:'4rem'}}>
+        <p className='py-2' style={{textIndent:'4rem', textAlign:'justify'}}>
            Nestred amidst Nilgiri hills, Ooty, also known as Udadagamandalam, is a hill station in Tamil Nadu which serves as the summer headquarters of the East India Company, the Queen of the hills is a picturesque getaway.
         </p>
-        <p className='text-indent' style={{textIndent:'4rem'}}>
+        <p className='text-indent' style={{textIndent:'4rem', textAlign:'justify'}}>
           The NIlgiri mountain railway is the steepest track in all of Asia. Remember the hit song 'Chaiya Chiaya' whetre Shahrukh Khan and Malika Arora matching steps on top of a train? Remember the breathtaking locales as train chuggled its way acroos lush greenery? Yes, that was the Nilgiri Mountain Railways and the Nilgiri Mountains all along Dotted with tea  gardens, serene waterfalls, winding country lanes, and charming colonial architechture. Ooty is the perfect rewspite everyone.
         </p>
         </Col>
