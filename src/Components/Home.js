@@ -19,6 +19,7 @@ import Hogenakkal from './Hogenakkal';
 const Home = () => {
   return (
     <>
+    <div id='home'>
     <Banner />
     <Section2 />
     <ScrollRouting />
@@ -32,6 +33,7 @@ const Home = () => {
     <Yercaud />
     <Theni />
     <Hogenakkal />
+    </div>
     </>
   )
 }

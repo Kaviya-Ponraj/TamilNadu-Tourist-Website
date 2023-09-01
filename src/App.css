@@ -32,3 +32,8 @@
 .offcanvas-backdrop{
   z-index: -1;
 }
+
+.button:hover{
+  background-color: rgb(219, 194, 194);
+  color: #fff;
+}

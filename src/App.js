@@ -8,6 +8,7 @@ import Home from './Components/Home';
 import Places from './Components/Places';
 import BestTimeToVisit from './Components/BestTimeToVisit';
 import Food from './Components/Food';
+import Packages from './Components/Packages';
 
 function App() {
   return (
@@ -19,11 +20,10 @@ function App() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav" className='justify-content-end'>
           <Nav >
-            <Nav.Link  > <Link to={'/'} className='text-white text-decoration-none fw-bold'>Home</Link> </Nav.Link>
+            <Nav.Link  > <Link to={'/'} className='text-white text-decoration-none fw-bold' id='home'>Home</Link> </Nav.Link>
             <Nav.Link  > <Link to={'/Places'} className='text-white text-decoration-none fw-bold'>Places To Visit</Link> </Nav.Link>
             <Nav.Link  > <Link to={'/BestTimeToVisit'} className='text-white text-decoration-none fw-bold'>Best Time To Visit</Link> </Nav.Link>
-            <Nav.Link  > <Link className='text-white text-decoration-none fw-bold'>Packages</Link> </Nav.Link>
-            <Nav.Link  > <Link className='text-white text-decoration-none fw-bold'>Destination</Link> </Nav.Link>
+            <Nav.Link  > <Link to={'/packages'} className='text-white text-decoration-none fw-bold'>Packages</Link> </Nav.Link>
             <Nav.Link  > <Link to={'/food'} className='text-white text-decoration-none fw-bold'>Food</Link> </Nav.Link>
           </Nav>
         </Navbar.Collapse>
@@ -34,6 +34,7 @@ function App() {
       <Route path='/' element={<Home />}/>
       <Route path='/Places' element={<Places />}/>
       <Route path='/BestTimeToVisit' element={<BestTimeToVisit />} />
+      <Route path='/packages' element={<Packages />} />
       <Route path='/food' element={<Food />} />
     </Routes>
     </>
